@@ -11,7 +11,7 @@
 
 #Language :Turkish 
 
-#TC kimlik numarası son 2 hane doğrulama python kodu 
+#TC kimlik numarası son 2 hane bulma python kodu 
 
 #########################################################################
 print("Last 2 number verification V3.0")

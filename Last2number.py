@@ -1,6 +1,6 @@
 #########################################################################
 
-#PROJECT 1:  ID number last 2 digit verification V3.0
+#PROJECT 1:  ID number last 2 digit finder V3.0
 
 #Contact me  on ;
 
@@ -12,7 +12,6 @@
 #Language :Turkish 
 
 #TC kimlik numarası son 2 hane doğrulama python kodu 
-
 
 #########################################################################
 print("Last 2 number verification V3.0")
